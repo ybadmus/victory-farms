@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 640M
+  instances: 1
+  domain: mybluemix.net
+  name: mk-tech-confusion-app
+  host: mk-tech-confusion-app
+  disk_quota: 1024M
+  env: 
+    ENABLE_BLUEMIX_DEV_MODE: "true"
