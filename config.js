@@ -1,6 +1,6 @@
 module.exports = {
     'secretKey': '12345-67890-09876-54321',
-    'mongoUrl' : 'mongodb://localhost:27017/Agro-Retail',
+    //'mongoUrl' : 'mongodb://localhost:27017/agro',
     //'mongoUrl' : 'mongodb://tundebadmus:BB.Inc_3@ds145369.mlab.com:45369/confusion',
     'facebook' : {
     	clientID: '491641694368732',
